@@ -30,3 +30,5 @@ Writers  | 2755  | 6629  | 50  | 15.65  | 1.78  |
 Singers  | 739  | 1944  | 25  | 18.04  | 2.92  |
 Journalists  | 607  | 1572  | 25  | 17.32  | 2.12  |
 Total  | 12429  | 29224  | 350  | 17.52  | 3.08  |
+
+The link to the aligned corpus and gold standard evaluation dataset is available [here](dataset) 
