@@ -5,6 +5,12 @@ We report significant improvement on evaluating our novel methods on these datas
 Utilising these alignment models, we create a cross-lingual aligned corpus of English fact triples aligned with Hindi sentences. This corpus, we believe, can be utilised for several downstream tasks like multilingual data-to-text generation, question answering, knowledge base population, knowledge graph completion etc.
 We make our code and final aligned corpus publicly available. 
 
+![capture](./images/Capture.PNG?raw=true "Title")
+
+*Figure 1: A sample data instance which contains a Hindi
+sentence mapped with relevant English triples. The English
+translation of the Hindi sentence has been provided for the
+reader’s convenience*
 # Aligned Corpus
 The aligned dataset is in the follwing json format :
 ```javascript
