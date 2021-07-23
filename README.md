@@ -21,7 +21,7 @@ The aligned dataset is in the follwing json format :
 Example of a data instance: 
 {
   "sentence": "आशीष कक्कड़ ( 21 मई 1971 - 2 नवंबर 2020 ) एक भारतीय फिल्म निर्देशक , लेखक , अभिनेता और आवाज कलाकार थे ।",
-  "triples": [["Ashish    Kakkad", "occupation", "film director"], ["Ashish Kakkad", "occupation", "actor"], ["Ashish Kakkad", "occupation", "screenwriter"], ["Ashish Kakkad", "occupation", "artist"], ["Ashish Kakkad", "country of citizenship", "India"]]
+  "triples": [["Ashish Kakkad", "occupation", "film director"], ["Ashish Kakkad", "occupation", "actor"], ["Ashish Kakkad", "occupation", "screenwriter"], ["Ashish Kakkad", "occupation", "artist"], ["Ashish Kakkad", "country of citizenship", "India"]]
   }
 ```
 
