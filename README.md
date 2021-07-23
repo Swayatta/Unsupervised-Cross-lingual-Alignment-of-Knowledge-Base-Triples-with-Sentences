@@ -18,3 +18,15 @@ Example of a data instance:
   "triples": [["Ashish    Kakkad", "occupation", "film director"], ["Ashish Kakkad", "occupation", "actor"], ["Ashish Kakkad", "occupation", "screenwriter"], ["Ashish Kakkad", "occupation", "artist"], ["Ashish Kakkad", "country of citizenship", "India"]]
   }
 ```
+
+Our aligned model predictes a set of relevant fact triples for a Hindi sentence. The statistics of the aligned corpus and gold testset are displayed below:
+
+Domain  | Entity Count  |  Sentence Count  | Sentence Count (test data)  | Avg Sentence length (test data) |  Avg Fact Count (test data)|
+------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+Actors  | 2106  | 5469  | 50  | 14.32  | 3.60  |
+Cricketers  | 2316  | 4694  | 100  | 21.19  | 4.70  |
+Politicians  | 3906  | 8916  | 100  | 18.64  | 3.47  |
+Writers  | 2755  | 6629  | 50  | 15.65  | 1.78  |
+Singers  | 739  | 1944  | 25  | 18.04  | 2.92  |
+Journalists  | 607  | 1572  | 25  | 17.32  | 2.12  |
+Total  | 12429  | 29224  | 350  | 17.52  | 3.08  |
